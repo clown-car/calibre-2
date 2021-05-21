@@ -56,3 +56,14 @@ recipes/debug
 /*env*/
 cmake-build-*
 bypy/b
+.settings/
+*.DS_Store
+calibre_plugins/
+recipes/*.mobi
+recipes/*.epub
+recipes/debug
+/.metadata/
+.idea
+/*env*/
+cmake-build-*
+bypy/b
