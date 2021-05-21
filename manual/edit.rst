@@ -862,3 +862,12 @@ text. The editor allows you to insert a snippet with only a few key strokes.
 The snippets are very powerful, with many features, such as placeholders you
 can jump between, automatic mirroring of repeated text and so on.
 For more information, see :doc:`snippets`.
+Snippets
+^^^^^^^^^^^^^^^
+
+The calibre E-book editor supports *snippets*. A snippet is a
+piece of text that is either re-used often or contains a lot of redundant
+text. The editor allows you to insert a snippet with only a few key strokes.
+The snippets are very powerful, with many features, such as placeholders you
+can jump between, automatic mirroring of repeated text and so on.
+For more information, see :doc:`snippets`.
