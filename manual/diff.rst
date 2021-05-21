@@ -87,3 +87,13 @@ of checkpoints by going to :guilabel:`View->Checkpoints` and then use the
 the current state. The comparison tool will show the checkpoint on the left and
 the current state on the right.
 
+
+The :ref:`edit` tool has a very useful feature, called :ref:`checkpoints`. This
+allows you to save the current state of the book as a named
+*checkpoint*, to which you can revert if you do not like the changes you have
+made since creating the checkpoint. Checkpoints are also created automatically
+when you perform various automated actions in the editor. You can see the list
+of checkpoints by going to :guilabel:`View->Checkpoints` and then use the
+:guilabel:`Compare` button to compare the book at the selected checkpoint with
+the current state. The comparison tool will show the checkpoint on the left and
+the current state on the right.
