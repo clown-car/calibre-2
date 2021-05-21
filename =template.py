@@ -3,5 +3,3 @@
 # License: GPL v3 Copyright: %YEAR%, %USER% <%MAIL%>
 
 %HERE%
-
-#more changes
