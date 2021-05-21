@@ -20,8 +20,6 @@
 // FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
 // IN THE SOFTWARE.
 
-// Comment
-
 // http://www.w3.org/TR/css3-color/
 var kCSSColorTable = {
   "transparent": [0,0,0,0], "aliceblue": [240,248,255,1],
